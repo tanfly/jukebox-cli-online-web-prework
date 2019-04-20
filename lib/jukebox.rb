@@ -50,5 +50,5 @@ def run (songs)
   puts "Please enter a command:"
   user_input = gets.chomp
   while user_input != "exit"
-    puts "Please enter a command:"
+    if 
 end
